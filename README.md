@@ -23,7 +23,7 @@ The model evaluates cars according to the following concept structure:
 
 
 
-**Attributes: **
+**Attributes:**
 
 * buying: vhigh, high, med, low. 
 * maint: vhigh, high, med, low. 
