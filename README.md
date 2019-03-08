@@ -1,4 +1,4 @@
-# machineLearning Projects 
+# MachineLearning Projects 
 
 # Car Evaluation
 
